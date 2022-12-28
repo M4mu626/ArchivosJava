@@ -13,3 +13,9 @@ ejercicio2
 /*
 Crear una función que reciba un precio y devuelva el precio con el IVA incluido.
 */
+
+
+ejercicio3
+/*
+Crear un bucle que permita concatenar textos e imprima el resultado final por consola.
+*/
